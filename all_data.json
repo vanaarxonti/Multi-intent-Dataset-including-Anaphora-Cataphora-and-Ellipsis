@@ -56,17 +56,17 @@
             "anaphora"
         ],
         [
-            "Send a message to mom \"be there soon\", as well as my gps coordinates with home base.",
+            "Send a message to mom 'be there soon', as well as my gps coordinates with home base.",
             "text,share_location",
             "ellipsis"
         ],
         [
-            "Send a text to my cousin linda that says happy birthday, and share my location with her.",
+            "Send a text to my cousin Linda that says happy birthday, and share my location with her.",
             "text,share_location",
             "anaphora"
         ],
         [
-            "Text mom \"where are you\" and share my location with her.",
+            "Text mom 'where are you' and share my location with her.",
             "text,share_location",
             "anaphora"
         ],
@@ -386,7 +386,7 @@
             "anaphora"
         ],
         [
-            "\u0397ow long is the validity of my credit card for, and the shipping time for my replacement card?",
+            "How long is the validity of my credit card for, and the shipping time for my replacement card?",
             "expiration_date,replacement_card_duration",
             "ellipsis"
         ],
@@ -441,7 +441,7 @@
             "anaphora"
         ],
         [
-            "\u0397ow much is my rent and what is the minimum I can pay on it?",
+            "How much is my rent and what is the minimum I can pay on it?",
             "bill_balance,min_payment",
             "anaphora"
         ],
@@ -521,22 +521,22 @@
             "anaphora"
         ],
         [
-            "\u039cy card is lost, how do I report it and when can I expect my new one to get here?",
+            "My card is lost, how do I report it and when can I expect my new one to get here?",
             "report_lost_card,replacement_card_duration",
             "anaphora"
         ],
         [
-            "\u0399 need help since someone stole my card, so can I replace it soon?",
+            "I need help since someone stole my card, so can I replace it soon?",
             "report_lost_card,replacement_card_duration",
             "anaphora"
         ],
         [
-            "\u0399 need to report that my card is lost and inquire about the transit time to replace it.",
+            "I need to report that my card is lost and inquire about the transit time to replace it.",
             "report_lost_card,replacement_card_duration",
             "anaphora"
         ],
         [
-            "\u0399 lost my card. How do I report it and what would be the estimated time to get a new one mailed to me?",
+            "I lost my card. How do I report it and what would be the estimated time to get a new one mailed to me?",
             "report_lost_card,replacement_card_duration",
             "anaphora"
         ],
@@ -621,7 +621,7 @@
             "ellipsis"
         ],
         [
-            "You need to help me find my cellphone and call steven's.",
+            "You need to help me find my cellphone and call Steven's.",
             "find_phone,make_call",
             "ellipsis"
         ],
@@ -1041,7 +1041,7 @@
             "cataphora"
         ],
         [
-            "Whats the expiration date on it, I mean my credit card and could you check and find out the current status of my credit card application?",
+            "What's the expiration date on it, I mean my credit card and could you check and find out the current status of my credit card application?",
             "expiration_date,application_status",
             "cataphora"
         ],
@@ -1401,42 +1401,42 @@
             "ellipsis"
         ],
         [
-            "How do you say \"i need coffee\" in dutch, also switch your language setting to it.",
+            "How do you say 'I need coffee' in dutch, also switch your language setting to it.",
             "translate,change_language",
             "anaphora"
         ],
         [
-            "How do they say \"who is your father\" in german and then switch your language to it.",
+            "How do they say 'wwho is your father' in german and then switch your language to it.",
             "translate,change_language",
             "anaphora"
         ],
         [
-            "Can you translate \"milk\" for me and then switch your language to it?",
+            "Can you translate 'milk' for me and then switch your language to it?",
             "translate,change_language",
             "anaphora"
         ],
         [
-            "Can you translate \"cat\" into russian for me and switch your language setting to it.",
+            "Can you translate 'cat' into russian for me and switch your language setting to it.",
             "translate,change_language",
             "anaphora"
         ],
         [
-            "Translate \"hello\" for me into french and is it possible to only talk in spanish?",
+            "Translate 'hello' for me into french and is it possible to only talk in spanish?",
             "translate,change_language",
             "cataphora"
         ],
         [
-            "Do you know how to say \"where is the restroom\" in french and is it possible to only talk in mexican?",
+            "Do you know how to say 'where is the restroom' in french and is it possible to only talk in mexican?",
             "translate,change_language",
             "cataphora"
         ],
         [
-            "What is the equivalent of \"life is good\" in French, and please provide your responses in it from now on.",
+            "What is the equivalent of 'life is good' in French, and please provide your responses in it from now on.",
             "translate,change_language",
             "anaphora"
         ],
         [
-            "Can you translate \"hi\" for me into spanish and please change your language setting to it.",
+            "Can you translate 'hi' for me into spanish and please change your language setting to it.",
             "translate,change_language",
             "anaphora"
         ],
@@ -1446,7 +1446,7 @@
             "anaphora"
         ],
         [
-            "How do they say \"what's up\" in chinese, please speak to me in it.",
+            "How do they say 'what's up' in chinese, please speak to me in it.",
             "translate,change_language",
             "anaphora"
         ],
@@ -1551,12 +1551,12 @@
             "ellipsis"
         ],
         [
-            "Add \"schedule appraiser appointment\" to my to do list and did I remember to add milk to the shopping one?",
+            "Add 'schedule appraiser appointment' to my to do list and did I remember to add milk to the shopping one?",
             "todo_list_update,shopping_list",
             "anaphora"
         ],
         [
-            "Add \"meeting with Carla\" on my to do list and provide the list of items on my shopping one.",
+            "Add 'meeting with Carla' on my to do list and provide the list of items on my shopping one.",
             "todo_list_update,shopping_list",
             "anaphora"
         ],
@@ -1716,12 +1716,12 @@
             "anaphora"
         ],
         [
-            "Ai, what's your name, because from now on it will be \"buttercup\".",
+            "Ai, what's your name, because from now on it will be 'buttercup'.",
             "what_is_your_name,change_ai_name",
             "anaphora"
         ],
         [
-            "I must know it, because from now on, your name will be \"josh\"",
+            "I must know it, because from now on, your name will be 'Josh' ",
             "what_is_your_name,change_ai_name",
             "cataphora"
         ],
@@ -1731,12 +1731,12 @@
             "anaphora"
         ],
         [
-            "What's your name, AI ? Because from now it will be \"Queen\".",
+            "What's your name, AI ? Because from now it will be 'Queen' .",
             "what_is_your_name,change_ai_name",
             "anaphora"
         ],
         [
-            "Tell me your name, because from now on it will be \"lord vader\".",
+            "Tell me your name, because from now on it will be 'Lord vader' .",
             "what_is_your_name,change_ai_name",
             "anaphora"
         ],
@@ -1751,17 +1751,17 @@
             "anaphora"
         ],
         [
-            "How do they say \"where's the bathroom\" in spanish and find all the \"a\"s in it.",
+            "How do they say 'where's the bathroom' in spanish and find all the 'a's in it.",
             "translate,spelling",
             "anaphora"
         ],
         [
-            "How do they say \"no\" in German and can you spell it?",
+            "How do they say 'no' in German and can you spell it?",
             "translate,spelling",
             "anaphora"
         ],
         [
-            "Can you give me a translation for \"hello\" in brazil, as well as a spelling for \"antipathy\" in mandarin?",
+            "Can you give me a translation for 'hello' in brazil, as well as a spelling for 'antipathy' in mandarin?",
             "translate,spelling",
             "ellipsis"
         ],
@@ -1781,22 +1781,22 @@
             "anaphora"
         ],
         [
-            "Tell me how to say, ''it is a beautiful morning''in italian, along with its spelling.",
+            "Tell me how to say, 'it is a beautiful morning'in italian, along with its spelling.",
             "translate,spelling",
             "anaphora"
         ],
         [
-            "Can you tell me how to say \" do not speak much spanish\", in spanish. How do you spell it, too?",
+            "Can you tell me how to say 'do not speak much spanish', in spanish. How do you spell it, too?",
             "translate,spelling",
             "anaphora"
         ],
         [
-            "Can you translate \"bowl\" into russian for me and then provide me with its spelling?",
+            "Can you translate 'bowl' into russian for me and then provide me with its spelling?",
             "translate,spelling",
             "anaphora"
         ],
         [
-            "Can you translate \"hello\" into swedish for me and then provide me with its complete spelling?",
+            "Can you translate 'hello' into swedish for me and then provide me with its complete spelling?",
             "translate,spelling",
             "anaphora"
         ],
@@ -2301,7 +2301,7 @@
             "ellipsis"
         ],
         [
-            "Read to me my to do list and add the chore of \"vacuuming\" to it.",
+            "Read to me my to do list and add the chore of 'vacuuming' to it.",
             "todo_list,todo_list_update",
             "anaphora"
         ],
@@ -2311,17 +2311,17 @@
             "anaphora"
         ],
         [
-            "Can you tell me the tasks on my to-do list. Add \"do laundry\"on them",
+            "Can you tell me the tasks on my to-do list. Add 'do laundry' on them",
             "todo_list,todo_list_update",
             "anaphora"
         ],
         [
-            "Can you tell me the tasks on my to-do list and add \"do laundry\" to it?",
+            "Can you tell me the tasks on my to-do list and add 'do laundry' to it?",
             "todo_list,todo_list_update",
             "anaphora"
         ],
         [
-            "Do I have a car wash scheduled on my to do list? Add \"schedule appraiser\" to it",
+            "Do I have a car wash scheduled on my to do list? Add 'schedule appraiser' to it",
             "todo_list,todo_list_update",
             "anaphora"
         ],
@@ -2336,7 +2336,7 @@
             "ellipsis"
         ],
         [
-            "Did I add \"purchase tickets\" to the penguin game to my todo list, if not will you?",
+            "Did I add 'purchase tickets' to the penguin game to my todo list, if not will you?",
             "todo_list,todo_list_update",
             "ellipsis"
         ],
@@ -5347,11 +5347,11 @@
             "order"
         ],
         [
-            "\u0399'd like you to purchase me canned soup.",
+            "I'd like you to purchase me canned soup.",
             "order"
         ],
         [
-            "\u03a4ell me the name of the song that is playing.",
+            "Tell me the name of the song that is playing.",
             "what_song"
         ],
         [
@@ -5563,7 +5563,7 @@
             "food_last"
         ],
         [
-            "So it seems I have had pizza in the fridge since monday, so is it safe to eat?",
+            "So it seems I have had pizza in the fridge since Monday, so is it safe to eat?",
             "food_last"
         ],
         [
@@ -5575,19 +5575,19 @@
             "food_last"
         ],
         [
-            "\u0399 would appreciate it, if you could show me how to jump start a car battery.",
+            "I would appreciate it, if you could show me how to jump start a car battery.",
             "jump_start"
         ],
         [
-            "\u0397ow do you jump start a subaru forester?",
+            "How do you jump start a subaru forester?",
             "jump_start"
         ],
         [
-            "\u0399 need to know how to jump start my car.",
+            "I need to know how to jump start my car.",
             "jump_start"
         ],
         [
-            "\u0399f my car battery is dead, what action do \u0399 need to do?",
+            "If my car battery is dead, what action do I need to do?",
             "jump_start"
         ],
         [
@@ -5875,7 +5875,7 @@
             "todo_list"
         ],
         [
-            "Did I put \"unpacking groceries\" on my to do list?",
+            "Did I put 'unpacking groceries' on my to do list?",
             "todo_list"
         ],
         [
@@ -6283,7 +6283,7 @@
             "ellipsis"
         ],
         [
-            "Add \"mopping\" to the to do list and are carrots added to the grocery one?",
+            "Add 'mopping' to the to do list and are carrots added to the grocery one?",
             "todo_list_update,shopping_list",
             "anaphora"
         ],
@@ -6293,7 +6293,7 @@
             "anaphora"
         ],
         [
-            "\u0399s it possible to talk to you in \u039candarin? Moreover, I want you to change to the male voice.",
+            "Is it possible to talk to you in mandarin? Moreover, I want you to change to the male voice.",
             "change_language,change_accent",
             "cataphora"
         ],
@@ -6318,7 +6318,7 @@
             "cataphora"
         ],
         [
-            "Is \"laundry\" on my todo list? Also, please remove science fair from it.",
+            "Is 'laundry' on my todo list? Also, please remove science fair from it.",
             "todo_list,todo_list_update",
             "anaphora"
         ],
