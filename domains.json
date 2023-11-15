@@ -1,0 +1,188 @@
+{
+    "work": [
+        "income,taxes",
+        "payday,pto_used",
+        "pto_used,next_holiday",
+        "schedule_meeting,meeting_schedule",
+        "pto_used",
+        "meeting_schedule",
+        "schedule_meeting",
+        "taxes",
+        "income",
+        "payday",
+        "next_holiday"
+    ],
+    "utility": [
+        "text,share_location",
+        "make_call,share_location",
+        "find_phone,make_call",
+        "timer,alarm",
+        "text",
+        "find_phone",
+        "spelling",
+        "date",
+        "alarm",
+        "time",
+        "timer",
+        "make_call",
+        "share_location",
+        "measurement_conversion"
+    ],
+    "banking,credit_cards": [
+        "balance,credit_score",
+        "transactions,apr",
+        "credit_limit_change,pin_change",
+        "rewards_balance,transactions",
+        "report_fraud,damaged_card"
+    ],
+    "utility,travel": [
+        "lost_luggage,find_phone",
+        "translate,spelling",
+        "time,timezone",
+        "measurement_conversion,exchange_rate"
+    ],
+    "credit_cards": [
+        "card_declined,replacement_card_duration",
+        "credit_score,improve_credit_score",
+        "expiration_date,replacement_card_duration",
+        "report_lost_card,replacement_card_duration",
+        "damaged_card,replacement_card_duration",
+        "expiration_date,application_status",
+        "apr,credit_limit_change",
+        "apr,credit_limit",
+        "credit_limit,credit_limit_change",
+        "card_declined,international_fees",
+        "international_fees",
+        "replacement_card_duration",
+        "expiration_date",
+        "damaged_card",
+        "report_lost_card",
+        "improve_credit_score",
+        "credit_score",
+        "credit_limit_change",
+        "apr",
+        "application_status",
+        "pin_change",
+        "credit_limit",
+        "card_declined"
+    ],
+    "banking": [
+        "bill_balance,min_payment",
+        "bill_due,pay_bill",
+        "report_fraud,freeze_account",
+        "pay_bill",
+        "transactions",
+        "bill_due",
+        "balance",
+        "rewards_balance",
+        "freeze_account",
+        "report_fraud",
+        "min_payment",
+        "bill_balance"
+    ],
+    "travel": [
+        "travel_alert,timezone",
+        "car_rental,book_flight",
+        "travel_suggestion,travel_alert",
+        "book_flight",
+        "car_rental",
+        "exchange_rate",
+        "travel_suggestion",
+        "translate",
+        "timezone",
+        "travel_alert",
+        "lost_luggage"
+    ],
+    "auto_and_commute": [
+        "last_maintenance,gas_type",
+        "oil_change_how,oil_change_when",
+        "mpg,oil_change_when",
+        "last_maintenance,schedule_maintenance",
+        "gas,gas_type",
+        "last_maintenance,tire_pressure",
+        "last_maintenance,mpg",
+        "last_maintenance,gas",
+        "last_maintenance,jump_start",
+        "oil_change_how",
+        "current_location",
+        "oil_change_when",
+        "last_maintenance",
+        "gas",
+        "tire_pressure",
+        "jump_start",
+        "mpg",
+        "gas_type",
+        "schedule_maintenance"
+    ],
+    "small_talk": [
+        "who_made_you,who_do_you_work_for",
+        "how_old_are_you,where_are_you_from",
+        "tell_joke,fun_fact",
+        "what_is_your_name",
+        "fun_fact",
+        "who_made_you",
+        "how_old_are_you",
+        "tell_joke",
+        "who_do_you_work_for",
+        "where_are_you_from"
+    ],
+    "home": [
+        "shopping_list,order",
+        "todo_list_update,shopping_list",
+        "what_song,next_song",
+        "todo_list,todo_list_update",
+        "calendar,reminder",
+        "order_status",
+        "next_song",
+        "todo_list_update",
+        "reminder",
+        "calendar_update",
+        "order",
+        "what_song",
+        "shopping_list",
+        "smart_home",
+        "calendar",
+        "todo_list"
+    ],
+    "travel,meta": [
+        "translate,change_language"
+    ],
+    "kitchen_and_dining": [
+        "recipe,calories",
+        "cook_time,food_last",
+        "recipe,meal_suggestion",
+        "meal_suggestion",
+        "recipe",
+        "calories",
+        "cook_time",
+        "food_last"
+    ],
+    "utility,meta": [
+        "find_phone,sync_device"
+    ],
+    "small_talk,meta": [
+        "what_is_your_name,change_ai_name"
+    ],
+    "meta": [
+        "change_user_name,what_is_your_name",
+        "change_language,change_accent",
+        "sync_device",
+        "change_user_name",
+        "change_accent",
+        "change_ai_name",
+        "change_language"
+    ],
+    "auto_and_commute,utility": [
+        "current_location,share_location",
+        "find_phone,current_location",
+        "date,current_location"
+    ],
+    "travel,banking": [
+        "lost_luggage,pin_change"
+    ],
+    "home,utility": [
+        "order_status,find_phone",
+        "text,calendar_update",
+        "smart_home,alarm"
+    ]
+}
