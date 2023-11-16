@@ -27,8 +27,7 @@ The primary data of the present dataset originate from the following dataset, wh
         booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
         year = "2019",
         url = "https://www.aclweb.org/anthology/D19-1131"
-    }
-
+    
 
 
 
