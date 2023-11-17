@@ -10,7 +10,7 @@ The primary data of the present dataset originate from the following dataset, wh
 - **Source Intent Classification Dataset:**
   - Original Dataset: CLINC150
   - Original Paper : [An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction](https://www.aclweb.org/anthology/D19-1131)
-  -License: [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
+  - License: [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
 
 ## 2. Why did you choose this source for your dataset?
 
