@@ -51,7 +51,7 @@
             "anaphora"
         ],
         [
-            "Text robby \"hello\" and send him my location.",
+            "Text robby 'hello' and send him my location.",
             "text,share_location",
             "anaphora"
         ],
@@ -506,7 +506,7 @@
             "cataphora"
         ],
         [
-            "I can't locate my mastercard and i want to report it as lost, please. So how many days till I get a new one to replace the stolen one?",
+            "I can't locate my mastercard and I want to report it as lost, please. So how many days till I get a new one to replace the stolen one?",
             "report_lost_card,replacement_card_duration",
             "anaphora"
         ],
@@ -551,7 +551,7 @@
             "cataphora"
         ],
         [
-            "Before telling me the date it was last inspected, i mean my car, with what kind of gas can I fill it?",
+            "Before telling me the date it was last inspected, I mean my car, with what kind of gas can I fill it?",
             "last_maintenance,gas_type",
             "cataphora"
         ],
@@ -736,7 +736,7 @@
             "cataphora"
         ],
         [
-            "When should i pay it by? I want to pay my bill immediately.",
+            "When should I pay it by? I want to pay my bill immediately.",
             "bill_due,pay_bill",
             "cataphora"
         ],
@@ -1406,7 +1406,7 @@
             "anaphora"
         ],
         [
-            "How do they say 'wwho is your father' in german and then switch your language to it.",
+            "How do they say 'who is your father' in german and then switch your language to it.",
             "translate,change_language",
             "anaphora"
         ],
@@ -2021,7 +2021,7 @@
             "anaphora"
         ],
         [
-            "Where can i rent a car in chicago and also I want to book a flight from it to dc for Monday, returning on Wednesday.",
+            "Where can i rent a car in Chicago and also I want to book a flight from it to dc for Monday, returning on Wednesday.",
             "car_rental,book_flight",
             "anaphora"
         ],
@@ -2221,7 +2221,7 @@
             "ellipsis"
         ],
         [
-            "Lemme know when you were born and where?",
+            "Let me know when you were born and where?",
             "how_old_are_you,where_are_you_from",
             "ellipsis"
         ],
@@ -2671,7 +2671,7 @@
             "anaphora"
         ],
         [
-            "What was the date when \u0399 last had my car inspected? Also, please retrieve my current mpg on it.",
+            "What was the date when I last had my car inspected? Also, please retrieve my current mpg on it.",
             "last_maintenance,mpg",
             "anaphora"
         ],
@@ -2686,7 +2686,7 @@
             "anaphora"
         ],
         [
-            "When did I last have it fixed? My car, I mean. \u0397ow many miles per gallon does it get in the city?",
+            "When did I last have it fixed? My car, I mean. How many miles per gallon does it get in the city?",
             "last_maintenance,mpg",
             "cataphora"
         ],
@@ -2721,7 +2721,7 @@
             "anaphora"
         ],
         [
-            "Please send a text to Phil and ask him about playing golf this weekend. Also, add \"delete my golf tournament event\" for tomorrow.",
+            "Please send a text to Phil and ask him about playing golf this weekend. Also, add 'delete my golf tournament event' for tomorrow.",
             "text,calendar_update",
             "anaphora"
         ],
@@ -2746,7 +2746,7 @@
             "anaphora"
         ],
         [
-            "Send a text to my cousin, Linda, that says 'Happy birthday,' then remove \"Celebrate anniversary\" from my calendar.",
+            "Send a text to my cousin, Linda, that says 'Happy birthday,' then remove 'Celebrate anniversary' from my calendar.",
             "text,calendar_update",
             "anaphora"
         ],
@@ -2826,7 +2826,7 @@
             "ellipsis"
         ],
         [
-            "Convert inches to centimeters, as well as krugerrands to saudi riyal.",
+            "Convert inches to centimeters, as well as krugerrands to Saudi Riyal.",
             "measurement_conversion,exchange_rate",
             "ellipsis"
         ],
@@ -3026,7 +3026,7 @@
             "ellipsis"
         ],
         [
-            "\u0399'm cooking an egg, set timer for 3 mins, then an alarm to start work and another alarm to stop",
+            "I'm cooking an egg, set timer for 3 mins, then an alarm to start work and another alarm to stop",
             "timer,alarm",
             "ellipsis"
         ],
@@ -3066,17 +3066,17 @@
             "ellipsis"
         ],
         [
-            "turn tv on, I, an alarm",
+            "Turn tv on, I, an alarm",
             "smart_home,alarm",
             "ellipsis"
         ],
         [
-            "turn the fan on, I the alarm",
+            "Turn the fan on, I the alarm",
             "smart_home,alarm",
             "ellipsis"
         ],
         [
-            "turn lights on in my bedroom, I,the alarm",
+            "Turn lights on in my bedroom, I,the alarm",
             "smart_home,alarm",
             "ellipsis"
         ],
@@ -3086,12 +3086,12 @@
             "ellipsis"
         ],
         [
-            "will you please get my furnace turned on; I my alarm",
+            "Will you please get my furnace turned on; I my alarm",
             "smart_home,alarm",
             "ellipsis"
         ],
         [
-            "turn on the living room lights; I, the alarm",
+            "Turn on the living room lights; I, the alarm",
             "smart_home,alarm",
             "ellipsis"
         ],
@@ -3251,7 +3251,7 @@
             "ellipsis"
         ],
         [
-            "I can't find my visa card and \u0399 want to report it as lost. Plus, how soon until you send me a replacement card?",
+            "I can't find my visa card and I want to report it as lost. Plus, how soon until you send me a replacement card?",
             "report_lost_card,replacement_card_duration"
         ],
         [
@@ -3275,7 +3275,7 @@
             "mpg,oil_change_when"
         ],
         [
-            "\u0397ow does this car do on its fuel, moreover how much longer until i need to get my oil changed?",
+            "How does this car do on its fuel, moreover how much longer until i need to get my oil changed?",
             "mpg,oil_change_when"
         ],
         [
@@ -3287,11 +3287,11 @@
             "mpg,oil_change_when"
         ],
         [
-            "\nHow's this car's fuel efficiency, and how can I tell when it's time to change my oil?",
+            "How is this car's fuel efficiency, and how can I tell when it's time to change my oil?",
             "mpg,oil_change_when"
         ],
         [
-            "\u03a4ell me something funny about politics and what would be a fun fact about cats, too?",
+            "Tell me something funny about politics and what would be a fun fact about cats, too?",
             "tell_joke,fun_fact"
         ],
         [
@@ -3415,7 +3415,7 @@
             "time,timezone"
         ],
         [
-            "I need to know what time it is in Florida and in which timezone is Jamaica.",
+            "I need to know what time is it in Florida and in which timezone is Jamaica.",
             "time,timezone"
         ],
         [
@@ -3435,7 +3435,7 @@
             "damaged_card,replacement_card_duration"
         ],
         [
-            "\u0399 bent my card, can you report it to my bank and what's the average time it takes for a new card to arrive?",
+            "I bent my card, can you report it to my bank and what's the average time it takes for a new card to arrive?",
             "damaged_card,replacement_card_duration"
         ],
         [
@@ -3571,23 +3571,23 @@
             "shopping_list,order"
         ],
         [
-            "How do you say \"cat\" in Spanish, and I don't know how to spell \"spaghetti\" either.",
+            "How do you say 'cat' in Spanish, and I don't know how to spell 'spaghetti' either.",
             "translate,spelling"
         ],
         [
-            "What is \"thank you\" in spanish, and I need to know how to spell \"conscience\"",
+            "What is 'thank you' in spanish, and I need to know how to spell 'conscience',
             "translate,spelling"
         ],
         [
-            "Translate 'hello' for me into french and can you spell \"diatribe\" ?",
-            "translate,spelling"
+            "Translate  'hello' for me into french and can you spell 'diatribe' ?,
+            "translate,spelling" 
         ],
         [
             "How should I say 'hello' in french and how do you spell out 'newspaper'?",
             "translate,spelling"
         ],
         [
-            "What is the Spanish word for hello, and please count the number of letter \"a\" in \"happiness\"",
+            "What is the Spanish word for hello, and please count the number of letter a in happiness",
             "translate,spelling"
         ],
         [
@@ -3831,11 +3831,11 @@
             "timer,alarm"
         ],
         [
-            "Please remove \"laundry\" from my list of chores and I need to know what is on my shopping list.",
+            "Please remove 'laundry' from my list of chores and I need to know what is on my shopping list.",
             "todo_list_update,shopping_list"
         ],
         [
-            "Add \"clean bathroom\" to my to-do list, and also show me my shopping list.",
+            "Add 'clean bathroom' to my to-do list, and also show me my shopping list.",
             "todo_list_update,shopping_list"
         ],
         [
@@ -3843,7 +3843,7 @@
             "todo_list_update,shopping_list"
         ],
         [
-            "Will you please put \"change the light bulbs\" on my list of things to do, provided it's not already there, and could you let me know what items are currently available on the shopping list?",
+            "Will you please put 'hange the light bulbs' on my list of things to do, provided it's not already there, and could you let me know what items are currently available on the shopping list?",
             "todo_list_update,shopping_list"
         ],
         [
@@ -3903,7 +3903,7 @@
             "calendar,reminder"
         ],
         [
-            "\u03a4ell me what my calendar looks like for march 12th. Is checking the mail on my list of reminder, too?",
+            "Tell me what my calendar looks like for march 12th. Is checking the mail on my list of reminder, too?",
             "calendar,reminder"
         ],
         [
